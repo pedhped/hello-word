@@ -1,2 +1,3 @@
 # hello-word
-Curso básico de github
+Curso básico de github.
+Me chamo Pedro Henrique, sou programador iniciante.
